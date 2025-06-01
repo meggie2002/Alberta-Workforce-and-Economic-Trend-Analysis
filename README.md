@@ -23,3 +23,13 @@ Statistics Canada
 - [Average weekly earnings by industry, monthly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020301)
 - [Employment by industry, monthly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020101)
 - [GDP at basic prices, by industry, provinces and territories](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040201)
+## Technologies Used
+- Python (Pandas, NumPy, SQLAlchemy)
+- SQL (MySQL)
+- Visualization: Matplotlib, Seaborn, Plotly
+## Key Insights
+- **Gender Disparity**: Men dominate Construction, Mining, and Wholesale/Retail; women lead in Healthcare and Social Assistance.
+- **Growth in Female Employment**: Certain industries saw significant percentage increases in female participation from 2001–2024.
+- **Age Distribution**: Some industries are dominated by specific age groups.
+- **Wage Analysis**: Identified industries with highest and lowest average weekly earnings.
+- **COVID-19 Impact**: Quantified job losses and GDP changes by industry during the pandemic.
