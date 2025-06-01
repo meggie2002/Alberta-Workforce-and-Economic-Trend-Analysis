@@ -27,6 +27,9 @@ Statistics Canada
 - Python (Pandas, NumPy, SQLAlchemy)
 - SQL (MySQL)
 - Visualization: Matplotlib, Seaborn, Plotly
+
+![ER diagram](https://github.com/user-attachments/assets/4d4098a1-a152-4dd9-af60-183e53217568)
+
 ## Key Insights
 - **Gender Disparity**: Men dominate Construction, Mining, and Wholesale/Retail; women lead in Healthcare and Social Assistance.
 - **Growth in Female Employment**: Certain industries saw significant percentage increases in female participation from 2001–2024.
