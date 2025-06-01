@@ -20,6 +20,6 @@ Alberta’s economy is driven by key industries such as oil & gas, agriculture, 
 ## Data Scources
 Statistics Canada
 - [Labour force characteristics by industry, annual (x 1,000)](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002301)
-- [Average weekly earnings by industry, monthly] https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020301
-- [Employment by industry, monthly] https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020101
-- [GDP at basic prices, by industry, provinces and territories] https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040201
+- [Average weekly earnings by industry, monthly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020301)
+- [Employment by industry, monthly](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020101)
+- [GDP at basic prices, by industry, provinces and territories](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040201)
