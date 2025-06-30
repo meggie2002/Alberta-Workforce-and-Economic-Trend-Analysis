@@ -1,5 +1,5 @@
 # Alberta Workforce and Economic Trend Analysis
-Alberta’s economy is driven by key industries such as oil & gas, agriculture, manufacturing, construction, and technology. This project analyzes labor and economic trends in Alberta by examining employment, GDP, gender and age participation, and average weekly earnings across industries. The goal is to understand how macroeconomic forces and events—like the COVID-19 pandemic—impact the province’s workforce and economic landscape.
+Alberta’s economy is driven by key industries such as oil & gas, agriculture, manufacturing, construction, and technology. This project analyzes labor and economic trends in Alberta by examining employment, GDP, gender and age participation, and average weekly earnings across industries. The goal is to understand how macroeconomic forces and events - like the COVID-19 pandemic - impact the province’s workforce and economic landscape.
 ## Contributors 
 - Jincy Thomas
 - Joshua Quartey
